@@ -1,1 +1,1 @@
-My personal website project which I've developed with ReactJS
+My personal website project which I developed with ReactJS
